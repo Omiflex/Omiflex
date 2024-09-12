@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omiflex&label=Profile%20views&color=0e75b6&style=flat" alt="omiflex" /> </p>
 
-- 🔭 I’m currently working on **SurveyBD**
+- 🔭 I’m currently working on **SurveyBD (Jorip)**
 
 - 🌱 I’m currently learning **Full-Stack Development, Database design & management**
 
