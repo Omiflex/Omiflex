@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SurveyBD (Jorip)**
 
-- 🌱 I’m currently learning **Full-Stack Development, Database design & management**
+- 🌱 I’m currently learning **Full-Stack Development, Database Design & Management**
 
 - 📫 How to reach me **oishtiaque@gmail.com**
 
