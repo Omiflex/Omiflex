@@ -1,4 +1,5 @@
-![Banner](https://imgur.com/ckFIVm1)
+<img src="[https://link-to-your-image.com/image.png](https://imgur.com/ckFIVm1)" alt="Masthead Image" style="width:100%;">
+
 
 <h1 align="center">Hi 👋, I'm Omio</h1>
 <h3 align="center">A Computer Science and Engineering student with a keen interest in exploring technology and its real-world applications.</h3>
