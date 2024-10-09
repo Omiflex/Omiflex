@@ -1,4 +1,5 @@
-<img src="[https://link-to-your-image.com/image.png](https://imgur.com/ckFIVm1)" alt="Masthead Image" style="width:100%;">
+![Masterhead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1728451815~exp=1728452415~hmac=39424ad7245251fc2f018a6045a1a511b01c607050270db98cb5c5e532045d22)
+
 
 
 <h1 align="center">Hi 👋, I'm Omio</h1>
