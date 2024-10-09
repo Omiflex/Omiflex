@@ -1,4 +1,5 @@
-![Masterhead](https://imgur.com/ckFIVm1)
+![Banner](https://imgur.com/ckFIVm1)
+
 <h1 align="center">Hi 👋, I'm Omio</h1>
 <h3 align="center">A Computer Science and Engineering student with a keen interest in exploring technology and its real-world applications.</h3>
 <img align="right" alt="Coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rwfbkVgA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x88nwrvshk9eqt61g9bd.png">
