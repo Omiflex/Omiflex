@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omiflex&label=Profile%20views&color=0e75b6&style=flat" alt="omiflex" /> </p>
 
-- 🔭 I’m currently working on **SurveyBD (Jorip)**
+- 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Full-Stack Development, Database Design & Management**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 📫 How to reach me **oishtiaque@gmail.com**
 
